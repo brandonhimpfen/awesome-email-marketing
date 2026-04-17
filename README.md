@@ -37,6 +37,7 @@
 - **[Sendinblue](https://www.sendinblue.com/)** - An all-in-one email marketing platform with CRM and SMS capabilities.
 - **[Klaviyo](https://www.klaviyo.com/)** - A platform for e-commerce email marketing with advanced segmentation.
 - **[Constant Contact](https://www.constantcontact.com/)** - A user-friendly platform for small businesses.
+- **[Nudgen](https://nudgen.net/)** - An AI-powered email automation for outreach and retention.
 
 ## Email Design Tools
 
