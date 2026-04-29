@@ -45,6 +45,9 @@
 - **[Stripo](https://stripo.email/)** - An email design platform with HTML and drag-and-drop editors.
 - **[Chamaileon](https://chamaileon.io/)** - A collaborative email design tool for teams.
 - **[Postcards](https://designmodo.com/postcards/)** - A visual email template builder.
+- **[MiN8T CSS Inliner](https://min8t.com/tools/css-inliner/)** - Free in-browser CSS inliner for HTML email; preserves @media, @keyframes, and pseudo-class rules.
+- **[MiN8T MJML to HTML](https://min8t.com/tools/mjml-converter/)** - Free in-browser MJML compiler with live iframe preview.
+- **[MiN8T Bulletproof Button Generator](https://min8t.com/tools/button-generator/)** - Free email-safe CTA button generator with VML fallback for Outlook desktop.
 
 ## Email Automation Tools
 
@@ -61,6 +64,8 @@
 - **[Yesware](https://www.yesware.com/)** - Email tracking and productivity tools for sales teams.
 - **[SparkPost](https://www.sparkpost.com/analytics/)** - Advanced email analytics and deliverability monitoring.
 - **[Campaign Monitor Analytics](https://www.campaignmonitor.com/analytics/)** - Built-in analytics for monitoring email campaign performance.
+- **[MiN8T A/B Test Sample Size Calculator](https://min8t.com/tools/ab-test-calculator/)** - Free z-test sample-size calculator for email A/B tests with email-marketer presets.
+- **[MiN8T Subject Line Analyzer](https://min8t.com/tools/subject-line-analyzer/)** - Free real-time subject line scoring across 8 signals (length, spam triggers, sentiment, emoji, caps, personalization).
 
 ## Deliverability Tools
 
@@ -69,6 +74,9 @@
 - **[Mail Tester](https://www.mail-tester.com/)** - A free tool for testing email deliverability and spam score.
 - **[Postmark](https://postmarkapp.com/)** - An email service focused on transactional email and deliverability.
 - **[GlockApps](https://glockapps.com/)** - Tools for testing inbox placement and email deliverability.
+- **[MiN8T Spam Score Checker](https://min8t.com/tools/spam-checker/)** - Free unlimited 21-rule SpamAssassin-style scoring with rule-by-rule breakdown.
+- **[MiN8T Inbox Preview](https://min8t.com/tools/inbox-preview/)** - Free side-by-side render of HTML email in Gmail, Apple Mail, and a strict-mode Outlook approximation.
+- **[MiN8T Email Header Analyzer](https://min8t.com/tools/header-analyzer/)** - Free in-browser SMTP header parser; trace hops, decode SPF/DKIM/DMARC verdicts, flag suspicious patterns.
 
 ## Best Practices and Guides
 
