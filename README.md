@@ -45,6 +45,7 @@
 - **[Stripo](https://stripo.email/)** - An email design platform with HTML and drag-and-drop editors.
 - **[Chamaileon](https://chamaileon.io/)** - A collaborative email design tool for teams.
 - **[Postcards](https://designmodo.com/postcards/)** - A visual email template builder.
+- **[CSS Inliner](https://min8t.com/tools/css-inliner/)** - Browser-based CSS inliner for HTML email; preserves `@media`, `@keyframes`, `@font-face`, and pseudo-class rules.
 
 ## Email Automation Tools
 
