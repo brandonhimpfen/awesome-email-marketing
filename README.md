@@ -53,6 +53,7 @@
 - **[Moosend](https://moosend.com/)** - A platform for automation and personalization in email campaigns.
 - **[Mailgun](https://www.mailgun.com/)** - An email API service with automation capabilities.
 - **[Omnisend](https://www.omnisend.com/)** - Automation tools designed for e-commerce marketing.
+- **[SalesLabel](https://sales-label.com)** - White-label outbound email automation built for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and deliverability infrastructure.
 
 ## Analytics and Tracking
 
