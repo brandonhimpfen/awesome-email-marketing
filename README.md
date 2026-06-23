@@ -85,6 +85,7 @@
 - **[Postal](https://github.com/postalhq/postal)** - An open-source mail server for large-scale email campaigns.
 - **[Mailtrain](https://mailtrain.org/)** - A self-hosted newsletter and email marketing platform.
 - **[Cuttlefish](https://github.com/mlandauer/cuttlefish)** - A self-hosted email service for transactional emails.
+- **[Cold Outreach Tracker](https://github.com/charlie-morrison/cold-outreach-tracker)** - An open-source Google Sheets/CSV template for tracking cold email outreach with a 4-touch follow-up cadence.
 
 ## Educational Resources
 
