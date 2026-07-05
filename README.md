@@ -69,6 +69,7 @@
 - **[Mail Tester](https://www.mail-tester.com/)** - A free tool for testing email deliverability and spam score.
 - **[Postmark](https://postmarkapp.com/)** - An email service focused on transactional email and deliverability.
 - **[GlockApps](https://glockapps.com/)** - Tools for testing inbox placement and email deliverability.
+- **[Relaymetry](https://relaymetry.com/)** - Free SPF, DKIM, DMARC and MTA-STS checker; expands SPF includes to show the real DNS-lookup count and flags what to fix.
 
 ## Best Practices and Guides
 
