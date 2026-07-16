@@ -69,6 +69,7 @@
 - **[Mail Tester](https://www.mail-tester.com/)** - A free tool for testing email deliverability and spam score.
 - **[Postmark](https://postmarkapp.com/)** - An email service focused on transactional email and deliverability.
 - **[GlockApps](https://glockapps.com/)** - Tools for testing inbox placement and email deliverability.
+- **[MailTester Ninja](https://mailtester.ninja)** - Real-time email verification API with live SMTP checks, catch-all detection, and a free toolkit for inbox placement testing, SPF/DKIM/DMARC generation, and blacklist lookup.
 
 ## Best Practices and Guides
 
