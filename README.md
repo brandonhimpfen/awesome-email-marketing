@@ -85,6 +85,7 @@
 - **[Postal](https://github.com/postalhq/postal)** - An open-source mail server for large-scale email campaigns.
 - **[Mailtrain](https://mailtrain.org/)** - A self-hosted newsletter and email marketing platform.
 - **[Cuttlefish](https://github.com/mlandauer/cuttlefish)** - A self-hosted email service for transactional emails.
+- **[Warmbly](https://github.com/warmbly/warmbly)** - An open-source cold email and warmup platform with agentic automations and deliverability controls.
 
 ## Educational Resources
 
