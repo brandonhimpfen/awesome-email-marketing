@@ -29,6 +29,7 @@
 - **[What is Email Marketing?](https://en.wikipedia.org/wiki/Email_marketing)** - An overview of email marketing and its significance.
 - **[HubSpot Email Marketing Blog](https://blog.hubspot.com/marketing/email-marketing)** - Articles and tips for mastering email marketing.
 - **[Email Marketing Benchmarks](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/)** - Industry benchmarks for email performance.
+- **[Osservatorio Cold Email Italia](https://clientium.it/osservatorio/)** - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by sector, CC BY 4.0.
 
 ## Email Marketing Platforms
 
