@@ -69,6 +69,7 @@
 - **[Mail Tester](https://www.mail-tester.com/)** - A free tool for testing email deliverability and spam score.
 - **[Postmark](https://postmarkapp.com/)** - An email service focused on transactional email and deliverability.
 - **[GlockApps](https://glockapps.com/)** - Tools for testing inbox placement and email deliverability.
+- **[ReviewMyDNS](https://reviewmydns.com/)** - A simple, plain-English checker for SPF, DKIM, and DMARC records.
 
 ## Best Practices and Guides
 
